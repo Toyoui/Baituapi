@@ -6,7 +6,7 @@ git clone https://github.com/Toyoui/Baituapi.git
 ```
 
 ```
-cd Baituapi
+cd /root/Baituapi
 cd Baicode
 docker ps -a
 cd baiapi
